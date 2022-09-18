@@ -52,7 +52,7 @@ Yukarıda ki basit örnekten yolaçıkarsak, lazy loading ile birbiriyle ilişki
 Bu da bize içinde bulunduğumuz case’e göre performans açısından yarar sağlayabilir.Eager loading’e göre veritabanına çok daha fazla kez bağlanır
 ve sorgu atar bunun da program için bir maliyeti vardır. Eager loading ise tek sorguda gerekli bilgileri elde eder.
 
-![started](https://user-images.githubusercontent.com/99819569/190926899-edd04d49-5018-467e-8a27-2f4810ea6cdb.png width="30%" height="30%")
-![createa![login](https://user-images.githubusercontent.com/99819569/190926911-6866265a-d37c-4e04-b560-3a9d96f57a7d.png width="30%" height="30%")
-![login](https://user-images.githubusercontent.com/99819569/190926929-22fccb8d-1e77-43f8-bba9-6a7ee4384140.png width="30%" height="30%")
+![started](https://user-images.githubusercontent.com/99819569/190926899-edd04d49-5018-467e-8a27-2f4810ea6cdb.png )
+![createa![login](https://user-images.githubusercontent.com/99819569/190926911-6866265a-d37c-4e04-b560-3a9d96f57a7d.png )
+![login](https://user-images.githubusercontent.com/99819569/190926929-22fccb8d-1e77-43f8-bba9-6a7ee4384140.png )
 
