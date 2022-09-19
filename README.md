@@ -1,3 +1,5 @@
+#Week2- HomeWork
+
 ## Lazy Loading vs Eager Loading
 Entity frameworkün yazılan LINQ sorgularına bağlı olarak veriyi veri tabanından yüklemek için kullandığı loading yöntemleridir.
 
